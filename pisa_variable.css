@@ -1,6 +1,6 @@
 html .theme-entry {
-	--main-font-family: "Open Sans Regular", Helvetica, sans-serif
-	--heading-font-family: "Segoe UI Semi-Light", "Helvetica Light", sans-serif
-	--button-font-family: "Segoe UI", "HelveticaNeue-Medium", Helvetica, sans-serif
+	--main-font-family: "Open Sans Regular", Helvetica, sans-serif;
+	--heading-font-family: "Segoe UI Semi-Light", "Helvetica Light", sans-serif;
+	--button-font-family: "Segoe UI", "HelveticaNeue-Medium", Helvetica, sans-serif;
 	--main-text-size: 1.3rem;
 }
